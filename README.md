@@ -1,4 +1,4 @@
-# STALKER: Shadow of Chernobyl + ApMod
+# S.T.A.L.K.E.R.: Shadow of Chernobyl + ApMod
 ![logo.jpeg](/readme/logo.jpeg)
 
 ### Что такое ApMod?
