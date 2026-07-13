@@ -1,5 +1,5 @@
-# S.T.A.L.K.E.R.: Shadow of Chernobyl + ApMod
-![logo.jpeg](/readme/logo.jpeg)
+# S.T.A.L.K.E.R.: Тень Чернобыля + ApMod
+[![](/readme/logo_mini.jpg)](/readme/logo.jpeg)
 
 ### Что такое ApMod?
 **ApMod** — балансный мод, основная цель которого заключается в эффективной настройке механик оригинальной Тени Чернобыля:
